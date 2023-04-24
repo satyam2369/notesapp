@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/notesapp/static/css/main.1eb27878.css",
-    "main.js": "/notesapp/static/js/main.c80c87e0.js",
+    "main.css": "/notesapp/static/css/main.db22dd69.css",
+    "main.js": "/notesapp/static/js/main.6291c311.js",
     "static/js/787.74861886.chunk.js": "/notesapp/static/js/787.74861886.chunk.js",
-    "static/media/Plus.png": "/notesapp/static/media/Plus.f5d4d283910a71769470.png",
+    "static/media/pluswhite.png": "/notesapp/static/media/pluswhite.6b20f9cf295883593fa2.png",
     "index.html": "/notesapp/index.html",
-    "main.1eb27878.css.map": "/notesapp/static/css/main.1eb27878.css.map",
-    "main.c80c87e0.js.map": "/notesapp/static/js/main.c80c87e0.js.map",
+    "main.db22dd69.css.map": "/notesapp/static/css/main.db22dd69.css.map",
+    "main.6291c311.js.map": "/notesapp/static/js/main.6291c311.js.map",
     "787.74861886.chunk.js.map": "/notesapp/static/js/787.74861886.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1eb27878.css",
-    "static/js/main.c80c87e0.js"
+    "static/css/main.db22dd69.css",
+    "static/js/main.6291c311.js"
   ]
 }
